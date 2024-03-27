@@ -132,24 +132,10 @@ namespace ktunotifications
             }      
         }
 
-        private login frm1;
         private void linkLabel2_Click(object sender, EventArgs e)
         {
-
-            // Check if the form is already open
-            if (frm1 == null || frm1.IsDisposed)
-            {
-                // If not open, create a new instance
-                frm1 = new login();
-
-                // Show the SecondForm
-                frm1.Show();
-            }
-            else
-            {
-                // If already open, bring it to the front
-                frm1.Activate();
-            }
+            login frm1 = new login();
+            frm1.Show();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)

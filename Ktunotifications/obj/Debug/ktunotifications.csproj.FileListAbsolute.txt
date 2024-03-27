@@ -8,3 +8,4 @@ C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotif
 C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.exe
 C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.pdb
 C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.login.resources
+C:\Users\Joelv\source\repos\ktunotifications\ktunotifications\obj\Debug\ktunotifications.Form2.resources
